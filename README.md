@@ -12,6 +12,15 @@ Tung Kieu, Bin Yang, Chenjuan Guo, Christian S. Jensen, _Outlier Detection for T
 # Dataset
 We use two dataset __YAHOO__ and __ECG__ that is a public dataset. You can follow the links in the paper to download the dataset.
 
+# Model
+We propose two model __IF__ and __SF__
+
+## IF
+![IF](https://github.com/tungsomot/OED/blob/master/S-RNN-AE.png)
+
+## SF
+![SF](https://github.com/tungsomot/OED/blob/master/SC-S-RNN-AE.png)
+
 # Citation
 If you find this repository, e.g., the code and the datasets, useful in your research, please cite the following paper:
 

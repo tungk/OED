@@ -16,10 +16,10 @@ We use two dataset __YAHOO__ and __ECG__ that is a public dataset. You can follo
 We propose two model __IF__ and __SF__
 
 ## IF
-![IF](https://github.com/tungsomot/OED/blob/master/S-RNN-AE.png)
+<img src="https://github.com/tungsomot/OED/blob/master/S-RNN-AE.png" width="600">
 
 ## SF
-![SF](https://github.com/tungsomot/OED/blob/master/SC-S-RNN-AE.png)
+<img src="https://github.com/tungsomot/OED/blob/master/SC-S-RNN-AE.png" width="600">
 
 # Citation
 If you find this repository, e.g., the code and the datasets, useful in your research, please cite the following paper:

@@ -10,7 +10,7 @@ Tung Kieu, Bin Yang, Chenjuan Guo, Christian S. Jensen, _Outlier Detection for T
 * Scikit-learn
 
 # Dataset
-We use two dataset __YAHOO__ and __ECG__ that is a public dataset. You can follow the links in the paper to download the dataset.
+We use two dataset __NAB__ and __ECG__ that is a public dataset. You can follow the links in the paper to download the dataset.
 
 # Model
 We propose two model __IF__ and __SF__
